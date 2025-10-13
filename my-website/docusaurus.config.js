@@ -11,7 +11,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Chaching',
-  tagline: 'API Reference',
+  tagline: 'Documentation',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Chaching Documentation',
+        title: 'About Chaching',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
@@ -97,11 +97,11 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'businessRequirementsSidebar',
+            sidebarId: 'businessSidebar',
             position: 'left',
-            label: 'Business Requirements',
+            label: 'Business Documentation',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          // { to: '/blog', label: 'Blog', position: 'left' },
 
 
           {

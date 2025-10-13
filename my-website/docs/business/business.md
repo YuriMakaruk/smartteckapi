@@ -1,10 +1,19 @@
 ---
 id: businessSidebar
-title: Business Requirements
-sidebar_label: Introduction
+title: Business Documentation
+sidebar_label: Revolutionizing Subscription Billing and Payments with ChaChing Resources
 slug: /business
 ---
 
-# Business Requirements
+# Business
 
-Welcome to the Business Requirements documentation.
+Welcome to the Business documentation.
+
+
+## Overview
+
+The Chaching  provides
+
+### Intro
+
+The Chaching  provides
