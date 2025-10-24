@@ -4,38 +4,38 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Simple Integration',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        ChaChing API is designed to be developer-friendly with clear documentation
+        and simple integration steps to get your payment system up and running quickly.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Secure Payments',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Focus on building your business while ChaChing handles secure payment processing.
+        Our robust infrastructure ensures <code>PCI compliance</code> and data protection.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Comprehensive API',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Full-featured REST API with support for payments, subscriptions, invoicing,
+        and customer management. Scale your payment operations with ease.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
