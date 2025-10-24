@@ -7,3 +7,5 @@ It is designed for developers building billing flows similar to Stripe, but with
 - **Base URL**: `https://api.chaching.io/v1/`
 - **Format**: JSON over HTTPS
 - **Versioning**: Current version: `v1`
+
+👉 **Try it in Swagger:** [Open in Swagger UI](https://dev-api.chaching.io/doc#/)
